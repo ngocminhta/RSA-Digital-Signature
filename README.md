@@ -1,4 +1,4 @@
-**RSA Digital Signature***
+**RSA Digital Signature**
 ============
 This work is a mini-project under the course IT4010E - Introduction to Cryptography and Security.
 Supervisor: Assoc. Prof. NGUYEN Khanh Van
